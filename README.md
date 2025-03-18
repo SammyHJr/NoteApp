@@ -19,9 +19,6 @@ This **Note-Taking App** is built using **Jetpack Compose** and **Jetpack Naviga
 
 Here are some screenshots of the app in action:
 
-![Main Screen](https://via.placeholder.com/400x800?text=Main+Screen)
-![Edit Screen](https://via.placeholder.com/400x800?text=Edit+Screen)
-
 ---
 
 ## 🛠 Tech Stack
